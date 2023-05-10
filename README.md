@@ -1,7 +1,7 @@
 # ServerlessAPI-aws
 ### Simple CRUD API using aws serverless infrastructure
 
-➡️**API is not functional to cut the pricing of AWS services, but it works**
+> ⚠️ API is not functional right now, to pause the billing of AWS services, but it works
 
 </br>
 
